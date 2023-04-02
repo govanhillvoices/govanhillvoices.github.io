@@ -14,7 +14,7 @@ A welcoming and inclusive community choir for all abilities
 
 ## Come and sing with us! 
 
-We meet every **Thursday** at **19:15** (7.15pm) in **Queen’s Park Govanhill Church**, 170 Queen’s Dr, Glasgow G42 8QZ (‘The Yellow Door Church’) We are not, however, connected to the church and welcome those of all faiths and none.
+We meet every **Thursday.**. Doors open **7.00pm** for a prompt start at 7.15pm, in **Queen’s Park Govanhill Church**, 170 Queen’s Dr, Glasgow G42 8QZ (‘The Yellow Door Church’) We are not, however, connected to the church and welcome those of all faiths and none.
 
 A session lasts about 2 hours with a break in the middle for tea, biscuits and chat.
 
@@ -32,7 +32,7 @@ A core value of Govanhill Voices is and always will be **accessibility** to all.
 
 It also means we are a donations based choir. You do not have to pay a fee to come along. Give as you feel or as you are able. We value you and your voice more than anything
 
-All are welcome in our choir, in terms of ethnicity, gender, sexuality, disability or faith.
+All are welcome in our choir, in terms of ethnicity, gender, sexuality, disability and faith.
 
 Feel free to **contact us**: [govanhillvoices@gmail.com](mailto:govanhillvoices@gmail.com) or follow us on social media.
 
