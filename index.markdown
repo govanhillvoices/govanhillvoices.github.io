@@ -6,7 +6,7 @@ layout: home
 title: Home
 ---
 
-![The choir](/media/fc567699a856248e326d99bca4f71955.jpg)
+![The choir](/media/GV_GGmag.jpg)
 
 # Govanhill Voices
 
@@ -18,11 +18,11 @@ We meet every **Thursday** at **19:15** (7.15pm) in **Queen’s Park Govanhill C
 
 A session lasts about 2 hours with a break in the middle for tea, biscuits and chat.
 
-We welcome singers of all backgrounds and abilities
+* We welcome singers of all backgrounds and abilities
 
-No auditions, no pressure to perform
+* No auditions, no pressure to perform
 
-We learn songs by ear - no need to read music!
+* We learn songs by ear - no need to read music!
 
 Click the link to hear [some of our songs](/songs)! We sing a mixture of ‘world music’ and English language songs.
 
