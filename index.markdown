@@ -36,6 +36,4 @@ All are welcome in our choir, in terms of ethnicity, gender, sexuality, disabili
 
 Feel free to **contact us**: [govanhillvoices@gmail.com](mailto:govanhillvoices@gmail.com) or follow us on social media.
 
-<> # {% include social-icons.html %}
-
 {% include map.html %}
