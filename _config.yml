@@ -22,6 +22,7 @@ title: Govanhill Voices
 email: govanhillvoices@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Govanhill Voices community choir homepage.
+  Photo credit: Audrey Bizouerne.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "govanhillvoices.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
