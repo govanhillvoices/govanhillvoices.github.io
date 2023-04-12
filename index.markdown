@@ -30,7 +30,7 @@ Click the link to hear [some of our songs](/songs)! We sing a mixture of ‘worl
 
 A core value of Govanhill Voices is and always will be **accessibility** to all. This means we take all levels of musical ability, from professional songpeople to those of us that might not hit every note every time.
 
-It also means we are a donations based choir. You do not have to pay a fee to come along. Give as you feel or as you are able. We value you and your voice more than anything
+It also means we are a donations based choir. You do not have to pay a fee to come along. Give as you feel or as you are able. We value you and your voice more than anything.
 
 All are welcome in our choir, in terms of ethnicity, gender, sexuality, disability and faith.
 
