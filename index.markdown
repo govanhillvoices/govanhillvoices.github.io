@@ -14,7 +14,7 @@ A welcoming and inclusive community choir for all abilities
 
 ## Come and sing with us! 
 
-We meet every **Thursday.** Doors open **7.00pm** for a prompt start at 7.15pm, in **Queen’s Park Govanhill Church**, 170 Queen’s Dr, Glasgow G42 8QZ (‘The Yellow Door Church’) We are not, however, connected to the church and welcome those of all faiths and none.
+We meet every **Thursday.** (Doors open **7.00pm** for a prompt start at 7.15pm), in **Queen’s Park Govanhill Church**, 170 Queen’s Dr, Glasgow G42 8QZ (‘The Yellow Door Church’) We are not, however, connected to the church and welcome those of all faiths and none.
 
 A session lasts about 2 hours with a break in the middle for tea, biscuits and chat.
 
