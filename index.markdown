@@ -24,7 +24,7 @@ A session lasts about 2 hours with a break in the middle for tea, biscuits and c
 
 * We learn songs by ear - no need to read music!
 
-Click the link to hear [some of our songs](/songs)! We sing a mixture of ‘world music’ and English language songs.
+Click the link to hear [some of our songs](/songs.markdown)! We sing a mixture of ‘world music’ and English language songs.
 
 ## A welcome for everybody
 
