@@ -37,3 +37,6 @@ All are welcome in our choir, in terms of ethnicity, gender, sexuality, disabili
 Feel free to **contact us**: [govanhillvoices@gmail.com](mailto:govanhillvoices@gmail.com) or follow us on social media.
 
 {% include map.html %}
+
+
+Govanhill Voices is an open access choir welcoming all members, regardless of ability, age, background or musical experience. We are committed to creating a safe and inclusive environment and we put members' wellbeing at the core of everything we do. You can view our [safeguarding policy and procedure] [link to docs](https://docs.google.com/document/d/1WXIQK37JwZHgfdRTPNX6kxaTklFRqYJY1-iORnKzy9w/edit?usp=sharing) and if you need to, speak directly to Rosie Quin (our safeguarding lead), or any member of the  organising committee if you have any concerns. 
