@@ -1,13 +1,11 @@
-<div class="social-icons">
-            <div class="social-icons-image">
-                <a href="https://www.instagram.com/govanhill_voices">
-                    <img src="http://tazindaniels.com/wp-content/uploads/2014/10/instagram-transparent.png" alt="Instagram Icon">
-                </a>
-            </div>
-            <div class="social-icons-image">
-                <a href="http://www.facebook.com/govanhillvoices">
-                    <img src="https://www.facebook.com/images/fb_icon_325x325.png" alt="Facebook Icon">
-                </a>
-            </div>
-            
-        </div>
+<div class="socials">
+	{% if site.instagram_username %}
+	<a href="https://instagram.com/{{ site.instagram_username }}" class="fa fa-instagram"></a>
+	{% endif %}
+	{% if site.facebook_username %}
+	<a href="https://facebook.com/{{ site.facebook_username }}" class="fa fa-facebook"></a>
+	{% endif %}
+	{% if site.twitter_username %}
+	<a href="https://twitter.com/{{ site.twitter_username }}" class="fa fa-twitter"></a>
+	{% endif %}
+</div>

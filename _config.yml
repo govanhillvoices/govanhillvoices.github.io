@@ -35,11 +35,25 @@ plugins:
 
 # Theme-specific settings
 
+# This is for a newer version of minima
 minima:
   social_links:
-    - { platform: devto,          user_url: "https://dev.to/jekyll" }
     - { platform: facebook,   user_url: "https://www.facebook.com/govanhillvoices" }
     - { platform: instagram,  user_url: "https://www.instagram.com/govanhill_voices" }
-    - { platform: youtube,    user_url: "https://www.instagram.com/govanhill_voices" }
 
+#use these
+instagram_username: "govanhill_voices"
+facebook_username: "govanhillvoices"
+
+  #twitter_username: jekyllrb
+  #github_username:  jekyll
+  #dribbble_username: jekyll
+  #facebook_username: jekyll
+  #flickr_username: jekyll
+  #instagram_username: jekyll
+  #linkedin_username: jekyll
+  #pinterest_username: jekyll
+  #youtube_username: jekyll
+  #googleplus_username: +jekyll
+  #rss: rss
 
